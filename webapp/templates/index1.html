@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+    <meta charset="UTF-8">
+    <meta name ='viewport' content ='with=device-with,initial-scale=1.0'>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</header>
+<body>
+    <h1>这是一个点赞系统</h1>
+    <table border="2">
+        <tr>
+            <td>序号</td>
+            <td>节日名称</td>
+            <td>点赞数</td>
+            <td>操作</td>
+        </tr>
+
+        {% for i in data %}
+        <tr>
+            <td>{{i.id}}</td>
+            <td>{{i.name}}</td>
+            <td>{{i.num}}</td>
+            <td><a href="/dianzan?id={{i.id}}">点赞</a></td>
+         </tr>
+        {% endfor %}
+
+    </table>
+
+
+</body>
+</html>

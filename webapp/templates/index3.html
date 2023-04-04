@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+    <meta charset="UTF-8">
+    <meta name ='viewport' content ='with=device-with,initial-scale=1.0'>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</header>
+<body>
+    <form action="moblieType" method="get">
+        手机号码：<input type="text" name="phone">
+        <input type="submit" value="查询">
+    </form>
+    <table>
+        <tr>
+            {% for i in data %}
+                <td>i</td>
+            {% endfor %}
+        </tr>
+    </table>
+</body>
+</html>
