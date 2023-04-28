@@ -1,0 +1,10 @@
+2023-04-07 10:45:30,702 - root - DEBUG - logger debug message
+2023-04-07 10:45:30,702 - root - INFO - logger info message
+2023-04-07 10:45:30,702 - root - WARNING - logger warning message
+2023-04-07 10:45:30,703 - root - ERROR - logger error message
+2023-04-07 10:45:30,703 - root - CRITICAL - logger critical message
+2023-04-07 10:47:08,039 - Logger.py - DEBUG - logger debug message
+2023-04-07 10:47:08,040 - Logger.py - INFO - logger info message
+2023-04-07 10:47:08,040 - Logger.py - WARNING - logger warning message
+2023-04-07 10:47:08,040 - Logger.py - ERROR - logger error message
+2023-04-07 10:47:08,040 - Logger.py - CRITICAL - logger critical message

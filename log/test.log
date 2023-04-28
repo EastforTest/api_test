@@ -1,0 +1,5 @@
+Fri, 07 Apr 2023 10:39:28 log.py[line:8] DEBUG debug message
+Fri, 07 Apr 2023 10:39:28 log.py[line:9] INFO info message
+Fri, 07 Apr 2023 10:39:28 log.py[line:10] WARNING warning message
+Fri, 07 Apr 2023 10:39:28 log.py[line:11] ERROR error message
+Fri, 07 Apr 2023 10:39:28 log.py[line:12] CRITICAL critical message
