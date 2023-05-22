@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df58a16f-5a68-4bfc-a34e-18beaa63d6ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/Logger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/log1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0419.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0419_01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0421.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0423.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0424.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0425.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0427.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo050923/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo050923/doubListNode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo050923/listNode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo050923/listNode_dummyHead.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo050923/removeElment.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo0510/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo0510/twolistadd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0505.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0508.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0509.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0516.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0517.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo0522.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packegedemo1/demo519.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,104 +27,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/log.py">
+      <file leaf-file-name="listNode_dummyHead.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo050923/listNode_dummyHead.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+            <state relative-caret-position="703">
+              <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo0419.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0419.py">
+      <file leaf-file-name="twolistadd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo0510/twolistadd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <state relative-caret-position="456">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo0419_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0419_01.py">
+      <file leaf-file-name="demo0509.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0509.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="760">
+              <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo0421.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0421.py">
+      <file leaf-file-name="demo0505.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0505.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo0516.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0516.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo0517.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0517.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo519.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo519.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo0427.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0427.py">
+      <file leaf-file-name="demo0522.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0522.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+            <state relative-caret-position="418">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo0423.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0423.py">
+      <file leaf-file-name="demo0508.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0508.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="1368">
+              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo0424.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0424.py">
+      <file leaf-file-name="removeElment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo050923/removeElment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="30" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo0425.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packegedemo1/demo0425.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="115" column="10" lean-forward="true" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Logger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/Logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/log1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -186,12 +187,26 @@
         <option value="$PROJECT_DIR$/packegedemo1/demo0425.py" />
         <option value="$PROJECT_DIR$/packegedemo1/demo0421.py" />
         <option value="$PROJECT_DIR$/packegedemo1/demo0427.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo0505.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo0508.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo0509.py" />
+        <option value="$PROJECT_DIR$/demo050923/linknode.py" />
+        <option value="$PROJECT_DIR$/demo050923/removeElment.py" />
+        <option value="$PROJECT_DIR$/demo050923/listNode.py" />
+        <option value="$PROJECT_DIR$/demo050923/listNode_dummyHead.py" />
+        <option value="$PROJECT_DIR$/demo050923/doubListNode.py" />
+        <option value="$PROJECT_DIR$/demo0510/twolistadd.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo0516.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo0517.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo519.py" />
+        <option value="$PROJECT_DIR$/packegedemo1/demo0522.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="911" />
-    <option name="y" value="175" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -211,12 +226,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="projectdemo061822" type="b2602c69:ProjectViewProjectNode" />
               <item name="learndemo061822" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectdemo061822" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learndemo061822" type="462c0819:PsiDirectoryNode" />
+              <item name="demo0510" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="projectdemo061822" type="b2602c69:ProjectViewProjectNode" />
@@ -228,7 +249,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo0427">
+  <component name="RunManager" selected="Python.demo0522">
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,7 +366,7 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="demo0419_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo0516" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -358,12 +378,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projectdemo061822" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0419_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0516.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="demo0421" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo0517" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -375,12 +395,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projectdemo061822" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0421.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0517.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="demo0423" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo0522" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -392,12 +412,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projectdemo061822" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0423.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0522.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="demo0425" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo519" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -409,42 +429,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projectdemo061822" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0425.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo519.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="demo0427" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twolistadd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/packegedemo1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo0510" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="projectdemo061822" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packegedemo1/demo0427.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo0510/twolistadd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.demo0419_01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.demo0421" />
-      <item index="2" class="java.lang.String" itemvalue="Python.demo0423" />
-      <item index="3" class="java.lang.String" itemvalue="Python.demo0425" />
-      <item index="4" class="java.lang.String" itemvalue="Python.demo0427" />
+      <item index="0" class="java.lang.String" itemvalue="Python.twolistadd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demo0516" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo0517" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demo519" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo0522" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.demo0427" />
-        <item index="1" class="java.lang.String" itemvalue="Python.demo0421" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo0425" />
-        <item index="3" class="java.lang.String" itemvalue="Python.demo0423" />
-        <item index="4" class="java.lang.String" itemvalue="Python.demo0419_01" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demo0522" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo519" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demo0517" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demo0516" />
+        <item index="4" class="java.lang.String" itemvalue="Python.twolistadd" />
       </list>
     </recent_temporary>
   </component>
@@ -504,16 +524,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15138593" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15778251" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23726977" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28602383" sideWeight="0.5191898" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28602383" sideWeight="0.48081023" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23726977" sideWeight="0.4914712" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26760563" sideWeight="0.48720682" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.267316" sideWeight="0.47867805" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869988" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -544,77 +564,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/packegedemo1/openpyxl_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0621.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0921.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getkeywordlist.py" />
-    <entry file="file://$PROJECT_DIR$/packegedemo1/openpyxl_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0921.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getkeywordlist.py" />
-    <entry file="file://$PROJECT_DIR$/packegedemo1/openpyxl_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0621.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0921.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getkeywordlist.py" />
-    <entry file="file://$PROJECT_DIR$/packegedemo1/openpyxl_demo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packegedemo1/demo0621.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -770,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,9 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,18 +751,14 @@
     <entry file="file://$PROJECT_DIR$/log/log1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/Logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="30" />
-          <folding />
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -820,62 +766,149 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/packegedemo1/demo0425.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="115" column="10" lean-forward="true" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="2185">
+          <caret line="115" column="10" lean-forward="false" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/packegedemo1/demo0424.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0423.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding />
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/packegedemo1/demo0419.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding />
+          <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0427.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/packegedemo1/demo0419_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding />
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/packegedemo1/demo0421.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="817">
+          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0423.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo050923/listNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo050923/doubListNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0427.py">
+    <entry file="file://$PROJECT_DIR$/demo050923/listNode_dummyHead.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="703">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo050923/removeElment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo0510/twolistadd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0509.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="29" lean-forward="false" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0508.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0505.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0516.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0517.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo519.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packegedemo1/demo0522.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
           <folding />
         </state>
       </provider>
