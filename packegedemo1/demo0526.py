@@ -21,6 +21,7 @@ t代表该工作消耗的时长（单位h，t>0）,w代表该项工作的报酬�
 
 # 优先工作时长最小报酬最大的工作
 # 每完成一个任务， 任务数减去1， 时间数减去任务的时间数，
+
 """
 task = []
 while True:
@@ -30,18 +31,36 @@ while True:
         break
 T = task[0][0]       #任务时间
 n = task[0][1]       #工作量
-tasks = task[1:]     #可选任务
-#可能的报酬
+# #可选任务
+# tasks= sorted(task[1:],key=lambda x:x[1],reverse=True)
+# #可能的报酬
+# ress = []
+# print(tasks)
+#
+# # 每n个任务加起来， 如果时间小于当前时间， 则是工作的可得任务报酬
+#
+# for i in range(1,n+1):
+#     for j in range(0,len(tasks)-i+1):
+#         sum = 0
+#         res = 0
+#         for k in range(j,i+j):
+#             sum += tasks[k][0]
+#         if sum <= T:
+#             for v in range(j, i + j):
+#                 res += tasks[v][1]
+#             ress.append(res)
+# print(ress)
+#
+# print(max(ress))
+
+import numpy as np
+# 二维数组切片
+arr = np.array(sorted(task[1:],key=lambda x:x[1],reverse=True))
 res = []
-#print(tasks)
-
-# 每n个任务加起来， 如果时间小于当前时间， 则是工作的可得任务报酬
-
-for i in range(1,n):
-    for j in range(0,len(tasks)-n):
-        if sum(tasks[j:n+j][0]) <= T:
-            res.append(sum(tasks[j:n+j][1]))
-#print(res)
+for i in range(1,n+1):
+    for j in range(0,len(arr)-i+1):
+        print(arr[j:j+i,0])
+        if sum(arr[j:j+i,0]) <= T:
+            res.append(sum(arr[j:j+i,1]))
+print(res)
 print(max(res))
-
-
